@@ -1,0 +1,16 @@
+{
+  "tenantId": "sk",
+  "moduleName": "tenant",
+  "tenantInfo": [
+    {
+            "code": "sk.gangtok",
+            "districtCode": "EAST DISTRICT",
+            "population": "2841062",
+            "malePopulation": "1,84,497",
+            "femalePopultion": "1,273,565",
+            "workingPopulation": "",
+            "literacyRate": "",
+            "languagesSpoken": ["HI","EN","NL"]
+        }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "tenantId": "sk",
+  "moduleName": "tenant",
+  "citymodule": [
+    {
+      "module": "BPAAPPLY",
+      "code": "BPAAPPLY",
+      "tenants": [
+        {
+          "code": "sk.gangtok"
+        }
+      ]
+    },
+    {
+      "module": "BPAREG",
+      "code": "BPAREG",
+      "tenants": [
+          {
+          "code": "sk.gangtok"
+        }
+      ]
+    }
+  ]
+}

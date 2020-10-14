@@ -1,0 +1,78 @@
+{
+  "tenantId": "sk",
+  "moduleName": "common-masters",
+  "OwnerShipCategory": [
+        {
+            "code": "INDIVIDUAL.SINGLEOWNER",
+            "active": true
+        },
+        {
+            "code": "INDIVIDUAL.MULTIPLEOWNERS",
+            "active": true
+        },
+        {
+            "code": "INSTITUTIONALCOMPANY.PROPRIETORSHIP",
+            "active": true
+        },
+        {
+            "code": "INSTITUTIONALCOMPANY.ONEPERSONCOMPANY",
+            "active": true
+        },
+        {
+            "code": "INSTITUTIONALCOMPANY.PARTNERSHIPFIRM",
+            "active": true
+        },
+        {
+            "code": "INSTITUTIONALCOMPANY.LIMITEDLIABILITYPARTNERSHIP",
+            "active": true
+        },
+        {
+            "code": "INSTITUTIONALCOMPANY.PRIVATELIMITEDCOMPANY",
+            "active": true
+        },
+        {
+            "code": "INSTITUTIONALCOMPANY.PUBLICLIMITEDCOMPANY",
+            "active": true
+        },
+        {
+            "code": "INSTITUTIONALCOMPANY.SECTION8COMPANY",
+            "active": true
+        },
+        {
+            "code": "INSTITUTIONALSOCIETY.HOUSINGSOCIETY",
+            "active": true
+        },
+        {
+            "code": "INSTITUTIONALSOCIETY.SELFHELPGROUP",
+            "active": true
+        },
+        {
+            "code": "INSTITUTIONALTRUST.PRIVATETRUST",
+            "active": true
+        },
+        {
+            "code": "INSTITUTIONALTRUST.PUBLICTRUST",
+            "active": true
+        },
+        {
+            "code": "INSTITUTIONALTRUST.RELIGIOUSTRUST",
+            "active": true
+        },
+        {
+            "code": "INSTITUTIONALGOVERNMENT.STATEGOVERNMENT",
+            "active": true
+        },
+        {
+            "code": "INSTITUTIONALGOVERNMENT.CENTRALGOVERNMENT",
+            "active": true
+        },
+        {
+            "code": "INSTITUTIONALGOVERNMENT.LOCALGOVERNMENT",
+            "active": true
+        },
+        {
+            "code": "INSTITUTIONALGOVERNMENT.RURALLOCALGOVERNMENT",
+            "active": true
+        }
+    ]
+}
