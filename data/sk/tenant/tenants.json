@@ -2,23 +2,23 @@
   "tenantId": "sk",
   "moduleName": "tenant",
   "tenants": [
-     {
-      "code": "sk",
-      "name": "Sikkim",
-      "description": "Sikkim",
-      "logoId": "",
-      "imageId": "",
-      "domainUrl": "https://www.gmcsikkim.in/",
+    {
+      "code": "sk.gangtok",
+      "name": "gangtok",
+      "description": "gangtok",
+      "logoId": null,
+      "imageId": null,
+      "domainUrl": null,
       "type": "CITY",
-      "twitterUrl": "",
-      "facebookUrl": "",
-      "emailId": "gmc.sikkim@gmail.com",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": null,
       "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM"
+        "Mon - Sat": "10.00 AM - 5.00 PM"
       },
       "city": {
         "name": "gangtok",
-        "localName":"Gangtok",
+        "localName": "gangtok",
         "districtCode": "255",
         "districtName": "EAST DISTRICT",
         "regionName": null,
@@ -27,46 +27,13 @@
         "latitude": 27.3314,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "123",
-        "ddrName": "Gangtok-MC"
+        "code": "737101",
+        "regionCode": null,
+        "municipalityName": "Gangtok Municipal Corporation"
       },
-      "address": "Municipal Corporation Office, Gangtok",
-      "contactNumber": "03592-280290",
-      "pdfHeader": "SK_PDF_HEADER",
-      "pdfContactDetails": "SK_CONTACT_DETAILS"
-    },
-    {
-      "code": "sk.gangtok",
-      "name": "Gangtok",
-      "description": "Gangtok",
-      "logoId": "",
-      "imageId": "",
-      "domainUrl": "https://www.gmcsikkim.in/",
-      "type": "CITY",
-      "twitterUrl": "",
-      "facebookUrl": "",
-      "emailId": "gmc.sikkim@gmail.com",
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM"
-      },
-      "city": {
-        "name": "",
-        "localName": null,
-        "districtCode": null,
-        "districtName": null,
-        "regionName": null,
-        "ulbGrade": "",
-       "longitude": 88.6138,
-        "latitude": 27.3314,
-        "shapeFileLocation": null,
-        "captcha": null,
-        "code": "1013",
-        "ddrName": ""
-      },
-      "address": "Municipal Corporation Office, Gangtok",
-      "contactNumber": "03592-280290",
-      "pdfHeader": "SK_GANGTOK_PDF_HEADER",
-      "pdfContactDetails": "SK_GANGTOK_CONTACT_DETAILS"
+      "address": "Gangtok Municipal corporation, gangtok",
+      "ulbPortalLink": null,
+      "contactNumber": null
     }
   ]
 }

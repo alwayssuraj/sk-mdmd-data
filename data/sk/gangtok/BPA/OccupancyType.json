@@ -1,0 +1,11 @@
+{
+  "tenantId": "sk.gangtok",
+  "moduleName": "BPA",
+  "OccupancyType": [
+    {
+      "name": "Residential",
+      "code": "RESIDENTIAL",
+      "active": true
+    }
+  ]
+}

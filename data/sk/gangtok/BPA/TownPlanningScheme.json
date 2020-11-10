@@ -1,0 +1,11 @@
+{
+  "tenantId": "sk.gangtok",
+  "moduleName": "BPA",
+  "TownPlanningScheme": [
+    {
+      "name": "Residential",
+      "code": "RESIDENTIAL",
+      "active": true
+    }
+  ]
+}
