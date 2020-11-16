@@ -3,6 +3,39 @@
   "moduleName": "tenant",
   "tenants": [
     {
+      "code": "sk",
+      "name": "Sikkim",
+      "description": "Sikkim",
+      "logoId": "https://investmeghalaya.gov.in/resources/homePage/17/megeodb/img/digital-india.png",
+      "imageId": "https://investmeghalaya.gov.in/resources/homePage/17/megeodb/img/digital-india.png",
+      "domainUrl": "http://www.gmcsikkim.in/",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "gmc.sikkim@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "10.00 AM - 5.00 PM"
+      },
+      "city": {
+        "name": "Gangtok",
+        "localName": null,
+        "districtCode": null,
+        "districtName": null,
+        "regionName": null,
+        "ulbGrade": "ST",
+        "longitude": 88.6138,
+        "latitude": 27.3314,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "1",
+        "ddrName": "Gangtok-MC"
+      },
+      "address": "Municipal Corporation Office,Near Deorali stand, Gangtok, Sikkim - 737101",
+      "contactNumber": "03592 - 280290",
+      "pdfHeader": "SK_PDF_HEADER",
+      "pdfContactDetails": "SK_CONTACT_DETAILS"
+    },
+    {
       "code": "sk.gangtok",
       "name": "gangtok",
       "description": "gangtok",
@@ -27,7 +60,7 @@
         "latitude": 27.3314,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "737101",
+        "code": "1",
         "regionCode": null,
         "municipalityName": "Gangtok Municipal Corporation"
       },

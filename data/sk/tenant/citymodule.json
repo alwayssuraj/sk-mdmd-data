@@ -3,6 +3,35 @@
   "moduleName": "tenant",
   "citymodule": [
     {
+      "module": "PGR",
+      "code": "PGR",
+      "tenants": [
+        {
+          "code": "sk.gangtok"
+        }
+      ]
+    },
+    {
+      "module": "PT",
+      "code": "PT",
+      "tenants": [
+        {
+          "code": "sk.gangtok"
+        }
+      ]
+    },
+   
+    {
+      "module": "TL",
+      "code": "TL",
+      "tenants": [
+        {
+          "code": "sk.gangtok"
+        }
+      ]
+    },
+    
+   {
       "module": "BPAAPPLY",
       "code": "BPAAPPLY",
       "tenants": [
@@ -15,10 +44,22 @@
       "module": "BPAREG",
       "code": "BPAREG",
       "tenants": [
-          {
+        {
           "code": "sk.gangtok"
         }
       ]
+    },
+    {
+      "module": "UC",
+      "code": "UC",
+      "tenants": [
+        {
+          "code": "sk.gangtok",
+	        "name": "Gangtok"
+        }
+      ]
+    
+     
     }
   ]
 }
