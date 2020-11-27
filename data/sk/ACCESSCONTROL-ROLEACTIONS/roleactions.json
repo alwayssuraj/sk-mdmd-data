@@ -18333,12 +18333,6 @@
       "tenantId": "sk"
     },
     {
-      "rolecode": "CITIZEN",
-      "actionid": 1827,
-      "actioncode": "",
-      "tenantId": "sk"
-    },
-    {
       "rolecode": "SUPERUSER",
       "actionid": 1828,
       "actioncode": "",
